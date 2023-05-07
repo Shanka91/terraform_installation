@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install Terraform
-TERRAFORM_VERSION="0.15.5"
+TERRAFORM_VERSION="1.4.6"
 TERRAFORM_URL="https://releases.hashicorp.com/terraform/${TERRAFORM_VERSION}/terraform_${TERRAFORM_VERSION}_linux_amd64.zip"
 
 # Install unzip (if not already installed)
